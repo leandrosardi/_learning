@@ -1,6 +1,6 @@
 require "postmark"
 
-POSTMARK_API_TOKEN = '1499e037-91e9-4f03-b563-3222458a7939'
+POSTMARK_API_TOKEN = '1499e037-91e9-4f03-b563-XXXXXXXXXXXXX'
 
 sender_name = 'Lori Lavoie'
 sender_email = 'lori.lavoie@86janetrmedellin.xyz'
